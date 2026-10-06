@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Threadwise: Run app",
+            "type": "shell",
+            "command": ".\\.venv-standard\\Scripts\\python.exe",
+            "args": ["-m", "streamlit", "run", "app.py"],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": []
+        }
+    ]
+}

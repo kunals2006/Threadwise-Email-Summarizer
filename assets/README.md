@@ -1,0 +1,2 @@
+Save the project preview here as `threadwise-demo.png` or `threadwise-demo.gif` using the instructions in the main README. Capture the app with its built-in sample thread; do not include private emails, API keys, or other personal information.
+![Threadwise email brief and action board](assets/threadwise-demo.png)
